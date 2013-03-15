@@ -34,6 +34,11 @@ GITHUBTARBALL
     hub (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-intellij
+  specs:
+    intellij (1.1.2)
+
+GITHUBTARBALL
   remote: boxen/puppet-iterm2
   specs:
     iterm2 (1.0.1)
@@ -69,6 +74,11 @@ GITHUBTARBALL
     spotify (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-sublime_text_2
+  specs:
+    sublime_text_2 (1.1.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
@@ -97,6 +107,7 @@ DEPENDENCIES
   homebrew (= 1.1.2)
   hub (= 1.0.0)
   inifile (= 0.9.0)
+  intellij (= 1.1.2)
   iterm2 (= 1.0.1)
   nginx (= 1.1.0)
   nodejs (= 1.0.0)
@@ -105,6 +116,7 @@ DEPENDENCIES
   slate (= 1.0.0)
   spotify (= 1.0.0)
   stdlib (= 3.0.0)
+  sublime_text_2 (= 1.1.0)
   sudo (= 1.0.0)
   wget (= 1.0.0)
 
