@@ -44,6 +44,6 @@ github "spotify",        "1.0.0"
 github "sublime_text_2", "1.1.0"
 github "intellij",       "1.1.2"
 
-# github "virtualbox",     "1.0.1"
-# github "vagrant",        "1.0.1"
+github "virtualbox",     "1.0.1"
+github "vagrant",        "1.0.0"
 

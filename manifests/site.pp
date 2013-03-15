@@ -87,8 +87,8 @@ node default {
     edition => 'ultimate',
   }
 
-  # include virtualbox
-  # include vagrant
+  include virtualbox
+  include vagrant
 
   
 
