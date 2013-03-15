@@ -73,22 +73,22 @@ node default {
   include ruby::2_0_0
 
   # My custom packages
-  # include stdlib
-  # include iterm2::stable
-  # include slate
-  # include wget
-  # 
-  # include adium
-  # include spotify
-  # 
-  # include virtualbox
-  # include vagrant
-  # 
-  # include sublime_text_2
-  # 
-  # class { 'intellij':
-  #   edition => 'ultimate',
-  # }
+  include stdlib
+  include iterm2::stable
+  include slate
+  include wget
+  
+  include adium
+  include spotify
+  
+  include virtualbox
+  include vagrant
+  
+  include sublime_text_2
+  
+  class { 'intellij':
+    edition => 'ultimate',
+  }
 
   
 
