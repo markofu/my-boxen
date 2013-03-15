@@ -47,3 +47,9 @@ github "intellij",       "1.1.2"
 github "virtualbox",     "1.0.1"
 github "vagrant",        "1.0.0"
 
+github "zsh",      		  "1.0.0"
+github "osx",      		  "1.0.0"
+github "chrome",   		  "1.0.0"
+github "dropbox",  		  "1.0.0"
+github "skype",    		  "1.0.0"
+
