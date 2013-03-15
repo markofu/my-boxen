@@ -81,14 +81,14 @@ node default {
   include adium
   include spotify
   
-  include virtualbox
-  include vagrant
+  # include sublime_text_2
   
-  include sublime_text_2
-  
-  class { 'intellij':
-    edition => 'ultimate',
-  }
+  # class { 'intellij':
+  #   edition => 'ultimate',
+  # }
+
+  # include virtualbox
+  # include vagrant
 
   
 
