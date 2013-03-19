@@ -8,7 +8,6 @@ class people::rozza {
 
   include adium
   include chrome
-  include evernote
   include dropbox
   include skype
   include spotify
