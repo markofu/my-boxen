@@ -11,7 +11,7 @@ class people::rozza {
   include dropbox
   include skype
   include spotify
-  include firefox::nightly
+  include firefox
 
   include sublime_text_2
   class { 'intellij':
