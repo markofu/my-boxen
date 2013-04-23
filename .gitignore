@@ -12,3 +12,4 @@
 .DS_Store
 /*.swp
 /vendor/puppet/cache
+.project
