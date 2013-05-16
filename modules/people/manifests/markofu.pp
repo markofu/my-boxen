@@ -1,4 +1,4 @@
-class people::rozza {
+class people::markofu {
 
   include iterm2::dev
   include slate
@@ -26,7 +26,7 @@ class people::rozza {
   include vagrant
 
   $my_home  = "/Users/${::luser}"
-  $projects = "${my_home}/vagrant/code/rozza"
+  $projects = "${my_home}/vagrant/code/markofu"
 
   file { $projects:
     ensure => directory,
