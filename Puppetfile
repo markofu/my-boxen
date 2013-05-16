@@ -34,15 +34,17 @@ github "sudo",     "1.0.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
-github "iterm2",          "1.0.1"
+github "iterm2",          "1.0.2"
 github "slate",           "1.0.0"
 github "wget",            "1.0.0"
 
 github "sublime_text_2",  "1.1.0"
 github "intellij",        "1.1.2"
+github "textmate",        "1.1.0"
 
 github "virtualbox",      "1.0.1"
 github "vagrant",         "1.0.0"
+github "vmware_fusion"    "1.0.0"
 
 github "adium",           "1.0.1"
 github "chrome",          "1.0.0"
@@ -53,3 +55,4 @@ github "skype",           "1.0.0"
 github "spotify",         "1.0.0"
 github "zsh",             "1.0.0"
 
+github "league_of_legends", "1.1.2"
