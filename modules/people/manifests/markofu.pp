@@ -12,12 +12,16 @@ class people::rozza {
   include skype
   include spotify
   include firefox
+  include league_of_legends
 
+
+  include textmate
   include sublime_text_2
   class { 'intellij':
     edition => 'ultimate',
   }
 
+  include vmware_fusion
   include virtualbox
   include vagrant
 
