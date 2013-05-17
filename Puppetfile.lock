@@ -158,6 +158,11 @@ GITHUBTARBALL
   specs:
     nmap (1.0.0)
 
+GITHUBTARBALL
+  remote: davidbanham/puppet-wireshark
+  specs:
+    wireshark (1.0.4)
+
 DEPENDENCIES
   adium (= 1.0.1)
   boxen (= 1.2.0)
