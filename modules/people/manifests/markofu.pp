@@ -1,6 +1,6 @@
 class people::markofu {
 
-  include iterm2::dev
+#  include iterm2::dev
   include slate
   include turn-off-dashboard
   include wget
