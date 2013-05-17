@@ -9,11 +9,12 @@ class people::markofu {
   include adium
   include chrome
   include dropbox
+  include firefox
+  include league_of_legends
   include nmap
   include skype
   include spotify
-  include firefox
-  include league_of_legends
+  include wireshark
 
 
   include textmate
