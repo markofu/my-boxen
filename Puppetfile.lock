@@ -64,6 +64,11 @@ GITHUBTARBALL
     league_of_legends (1.1.2)
 
 GITHUBTARBALL
+  remote: boxen/puppet-mongodb
+  specs:
+    mongodb (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-nginx
   specs:
     nginx (1.1.0)
@@ -178,6 +183,7 @@ DEPENDENCIES
   intellij (= 1.1.2)
   iterm2 (= 1.0.2)
   league_of_legends (= 1.1.2)
+  mongodb (= 1.0.0)
   nginx (= 1.1.0)
   nmap (= 1.0.0)
   nodejs (= 1.0.0)

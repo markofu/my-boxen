@@ -11,6 +11,7 @@ class people::markofu {
   include dropbox
   include firefox
   include league_of_legends
+  include mongodb
   include nmap
   include skype
   include spotify

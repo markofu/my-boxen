@@ -38,6 +38,7 @@ github "iterm2",          "1.0.2"
 github "slate",           "1.0.0"
 github "wget",            "1.0.0"
 github "league_of_legends",            "1.1.2"
+github "mongodb",            "1.0.0"
 
 github "sublime_text_2",  "1.1.0"
 github "intellij",        "1.1.2"
@@ -56,7 +57,7 @@ github "skype",           "1.0.0"
 github "spotify",         "1.0.0"
 github "zsh",             "1.0.0"
 
-# Security modules for security crap that I need
+# Security modules for security crap that I need on the MBP.
 
 github "nmap",  "1.0.0", :repo => "paulcollinsiii/puppet-nmap"
 github "wireshark",  "1.0.0", :repo => "davidbanham/puppet-wireshark"
