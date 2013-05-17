@@ -195,5 +195,6 @@ DEPENDENCIES
   virtualbox (= 1.0.1)
   vmware_fusion (= 1.0.0)
   wget (= 1.0.0)
+  wireshark (= 1.0.0)
   zsh (= 1.0.0)
 
