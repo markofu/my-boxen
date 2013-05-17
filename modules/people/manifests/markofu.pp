@@ -9,6 +9,7 @@ class people::markofu {
   include adium
   include chrome
   include dropbox
+  include nmap
   include skype
   include spotify
   include firefox
