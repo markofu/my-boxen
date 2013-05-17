@@ -34,7 +34,7 @@ github "sudo",     "1.0.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
-#github "iterm2",          "1.0.2"
+github "iterm2",          "1.0.2"
 github "slate",           "1.0.0"
 github "wget",            "1.0.0"
 github "league_of_legends",            "1.1.2"
