@@ -45,7 +45,7 @@ github "textmate",        "1.1.0"
 
 github "virtualbox",      "1.0.1"
 github "vagrant",         "1.0.0"
-github "vmware_fusion"    "1.0.0"
+github "vmware_fusion",   "1.0.0"
 
 github "adium",           "1.0.1"
 github "chrome",          "1.0.0"
