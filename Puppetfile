@@ -55,3 +55,7 @@ github "osx",             "1.0.0"
 github "skype",           "1.0.0"
 github "spotify",         "1.0.0"
 github "zsh",             "1.0.0"
+
+# Security modules for security crap that I need
+
+github "nmap",  "1.0.0", :repo => "paulcollinsiii/puppet-nmap"
