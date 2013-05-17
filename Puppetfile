@@ -59,4 +59,4 @@ github "zsh",             "1.0.0"
 # Security modules for security crap that I need
 
 github "nmap",  "1.0.0", :repo => "paulcollinsiii/puppet-nmap"
-github "nmap",  "1.0.0", :repo => "davidbanham/puppet-wireshark"
+github "wireshark",  "1.0.0", :repo => "davidbanham/puppet-wireshark"
