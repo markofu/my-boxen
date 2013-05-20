@@ -16,7 +16,7 @@ class people::markofu {
   include screen
   include skype
   include spotify
-#  include wireshark
+  include wireshark
 
 
   include textmate
