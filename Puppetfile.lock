@@ -94,7 +94,7 @@ GITHUBTARBALL
     ruby (3.1.0)
 
 GITHUBTARBALL
-  remote: boxen/puppet-screen<
+  remote: boxen/puppet-screen
   specs:
     screen (1.0.0)
 
