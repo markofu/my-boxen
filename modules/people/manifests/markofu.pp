@@ -13,6 +13,7 @@ class people::markofu {
   include league_of_legends
   include mongodb
   include nmap
+  include screen
   include skype
   include spotify
   include wireshark

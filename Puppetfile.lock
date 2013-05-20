@@ -94,6 +94,11 @@ GITHUBTARBALL
     ruby (3.1.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-screen<
+  specs:
+    screen (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-skype
   specs:
     skype (1.0.0)
@@ -190,6 +195,7 @@ DEPENDENCIES
   nvm (= 1.0.0)
   osx (= 1.0.0)
   ruby (= 3.1.0)
+  screen (= 1.0.0)
   skype (= 1.0.0)
   slate (= 1.0.0)
   spotify (= 1.0.0)
