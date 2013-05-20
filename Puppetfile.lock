@@ -149,6 +149,11 @@ GITHUBTARBALL
     wget (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-zsh
+  specs:
+    zsh (1.0.0)
+
+GITHUBTARBALL
   remote: cprice-puppet/puppetlabs-inifile
   specs:
     inifile (0.9.0)
@@ -197,4 +202,5 @@ DEPENDENCIES
   virtualbox (= 1.0.1)
   vmware_fusion (= 1.0.0)
   wget (= 1.0.0)
+  zsh (= 1.0.0)
 
