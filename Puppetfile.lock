@@ -29,11 +29,6 @@ GITHUBTARBALL
     firefox (1.0.5)
 
 GITHUBTARBALL
-  remote: boxen/puppet-iterm2
-  specs:
-    iterm2 (1.0.2)
-
-GITHUBTARBALL
   remote: boxen/puppet-gcc
   specs:
     gcc (1.0.0)
@@ -57,6 +52,11 @@ GITHUBTARBALL
   remote: boxen/puppet-intellij
   specs:
     intellij (1.1.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-iterm2
+  specs:
+    iterm2 (1.0.2)
 
 GITHUBTARBALL
   remote: boxen/puppet-league_of_legends
@@ -149,19 +149,9 @@ GITHUBTARBALL
     wget (1.0.0)
 
 GITHUBTARBALL
-  remote: boxen/puppet-zsh
-  specs:
-    zsh (1.0.0)
-
-GITHUBTARBALL
   remote: cprice-puppet/puppetlabs-inifile
   specs:
     inifile (0.9.0)
-
-GITHUBTARBALL
-  remote: puppetlabs/puppetlabs-stdlib
-  specs:
-    stdlib (3.0.0)
 
 GITHUBTARBALL
   remote: paulcollinsiii/puppet-nmap
@@ -169,9 +159,9 @@ GITHUBTARBALL
     nmap (1.0.0)
 
 GITHUBTARBALL
-  remote: davidbanham/puppet-wireshark
+  remote: puppetlabs/puppetlabs-stdlib
   specs:
-    wireshark (1.0.4)
+    stdlib (3.0.0)
 
 DEPENDENCIES
   adium (= 1.0.1)
@@ -203,10 +193,8 @@ DEPENDENCIES
   sublime_text_2 (= 1.1.0)
   sudo (= 1.0.0)
   textmate (= 1.1.0)
-  vagrant (= 1.0.0)
+  vagrant (= 2.0.7)
   virtualbox (= 1.0.1)
   vmware_fusion (= 1.0.0)
   wget (= 1.0.0)
-#  wireshark (= 1.0.0)
-  zsh (= 1.0.0)
 
